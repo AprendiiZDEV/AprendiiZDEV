@@ -5,15 +5,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprendiizdev&show_icons=true&theme=cobalt)
 
-### Tecnologias que utilizo
-
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+- 👨‍💻 **Back-end (Intermediary)** 
+- 👨‍💻 **Front-end (Beginner)**
+  
 <div style="display:inline_block"><br/>
     <img align = "center" alt= "lua" src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
     <img align = "center" alt= "js" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align = "center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<p align="center">
+<p align="center"></br>
     <a href="https://discord.gg/MESAVhjnQG">
       <img src="https://img.shields.io/discord/701967992832917505?color=7289da&label=Prodigy%20Network&logo=discord&logoColor=ffffff&style=plastic">
     </a></br>
