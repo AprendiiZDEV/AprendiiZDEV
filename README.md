@@ -12,3 +12,12 @@
     <img align = "center" alt= "js" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align = "center" alt= "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<p align="center">
+    <a href="https://discord.gg/MESAVhjnQG">
+      <img src="https://img.shields.io/discord/701967992832917505?color=7289da&label=Prodigy%20Network&logo=discord&logoColor=ffffff&style=plastic">
+    </a></br>
+    <a href="mailto:etienegabriel@proton.me">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=mailto:contato@likizao.dev">
+    </a>
+</p>
