@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MESAVhjnQG)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AprendiiZDEV&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=AprendiiZ's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=likizao&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=Likizao">
 </p>
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
