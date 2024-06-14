@@ -1,7 +1,4 @@
-### Olá, me chamo Etiene Gabriel 🤙
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eti_gabriel)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MESAVhjnQG)
+### Olá, me chamo Gabriel 🤙
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AprendiiZDEV&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=AprendiiZDEV">
@@ -24,11 +21,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<p align="center"></br>
-    <a href="https://discord.gg/MESAVhjnQG">
-      <img src="https://img.shields.io/discord/701967992832917505?color=7289da&label=Prodigy%20Network&logo=discord&logoColor=ffffff&style=plastic">
-    </a></br>
-    <a href="mailto:etienegabriel@proton.me">
-      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=mailto:contato@likizao.dev">
-    </a>
-</p>
+
